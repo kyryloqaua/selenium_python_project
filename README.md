@@ -1,7 +1,3 @@
-# selenium_python_project
-
----
-
 # Selenium Automation for Hotel Booking
 
 ## Project Description
